@@ -1,9 +1,0 @@
-base
-readxl
-igraph
-dplyr
-bindrcpp
-NbClust
-ggplot2
-factoextra
-cluster

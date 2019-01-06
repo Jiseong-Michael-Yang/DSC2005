@@ -2,12 +2,12 @@
 title: "Assingment 1"
 author: "Jiseong Yang"
 date: "<em>2018년 12월 13일</em>"
-output: html_document
+output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, cache = TRUE)
-knitr::opts_knit$set(root.dir = 'C:/Users/Jiseong Yang/git_projects/DSC2005/Assignment1')
+knitr::opts_knit$set(root.dir = 'C:/Users/Jiseong Yang/git_projects/Data-Science-and-R/Assignment1')
 Sys.setlocale("LC_ALL","Korean")
 options(repos = c(CRAN="https://cran.seoul.go.kr/"))
 ```

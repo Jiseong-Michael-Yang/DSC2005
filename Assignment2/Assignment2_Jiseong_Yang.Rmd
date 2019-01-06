@@ -7,7 +7,7 @@ output: html_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, cache = TRUE)
-knitr::opts_knit$set(root.dir = 'C:/Users/Jiseong Yang/git_projects/DSC2005/Assignment2')
+knitr::opts_knit$set(root.dir = 'C:/Users/Jiseong Yang/git_projects/Data-Science-and-R/Assignment2')
 Sys.setlocale("LC_ALL","Korean")
 options(repos = c(CRAN="https://cran.seoul.go.kr/"))
 ```
